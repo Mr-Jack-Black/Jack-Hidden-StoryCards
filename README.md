@@ -55,7 +55,9 @@ encoded text
 ```
 
 Unhiding only occurs if the password matches exactly.
+
 Password can be easily changed in the top of the library code.
+
 Default password = "ChangeMe"
 
 ---
